@@ -9,14 +9,14 @@
 
 |    Category    |    Github      |    Status|
 |:--------       |  :----------   |  :-----------|
-|Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  | [^未完成]
+|Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  | 
 |Machine Learning|[Papers with code](https://github.com/zziz/pwc)|
 |Machine Learning |[MIT Machine Learning related courses](https://github.com/lexfridman/mit-deep-learning)|
 |Machine Learning|[周志华 Machine Learning 全书笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)|
 |Machine Learning|[机器学习训练秘籍](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/ch01/)|
 |Python|[Python Code Sample](https://github.com/geekcomputers/Python)|
 |GitHub |[Github 中文榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|
-|Math|[数学乐](https://www.shuxuele.com/calculus/integration-introduction.html
+|Math|[数学乐](https://www.shuxuele.com/calculus/integration-introduction.html)
 |Materials | [搜书利器](https://www.jiumodiary.com/)|
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)|
 |Algorithm |[Leetcode general questions](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)|
