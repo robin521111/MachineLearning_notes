@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
 
-|    Category    |    Github      |    Status|
+|    Category    |    GitHub      |    Status|
 |:--------       |  :----------   |  :-----------|
 |Math|[数学乐](https://www.shuxuele.com/calculus/integration-introduction.html)
 |Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  | 
@@ -17,7 +17,6 @@
 |Machine Learning|[机器学习训练秘籍](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/ch01/)|
 |Machine Learning - reformer-pytorch|[reformer-pytorch](https://github.com/lucidrains/reformer-pytorch)|
 |Machine Learning - Data Science|[Data-Science-Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf)|
-|Study Website|[大学资源网](http://www.dxzy163.com/)|
 |Python|[Python Code Sample](https://github.com/geekcomputers/Python)|
 |GitHub |[Github 中文榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)|
@@ -25,3 +24,5 @@
 |Algorithm|[Python算法](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)|
 |Javascript|[javascript语法](https://github.com/ryanmcdermott/clean-code-javascript)|
 |Materials | [搜书利器](https://www.jiumodiary.com/)|
+|Study Website|[大学资源网](http://www.dxzy163.com/)|
+|Machine Learning - GAN Nerual Network|[对抗神经网络](https://github.com/hindupuravinash/the-gan-zoo)|
