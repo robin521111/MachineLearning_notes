@@ -23,14 +23,16 @@
 |Machine Learning - Data Science|[数据科学CheatSheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)||
 |Machine Learning - GAN Neaual Network|[对抗神经网络论文](https://github.com/hindupuravinash/the-gan-zoo)||
 |Machine Learning - transformaers|[Transformers](https://github.com/huggingface/transformers)|Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.|
+|Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
+|Machine Learning - Study Notes|[AndrewNg ML-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|//www.coursera.org/course/ml study link|
 |Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
 |GitHub |[Github 中文榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)||
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Algorithm |[Leetcode general questions](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)||
 |Algorithm|[Python算法](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)||
 |Javascript|[javascript语法](https://github.com/ryanmcdermott/clean-code-javascript)||
-|Materials | [搜书利器](https://www.jiumodiary.com/)||
 |Study Website|[大学资源网](http://www.dxzy163.com/)||
-|Public API|[开源API](https://github.com/public-apis/public-apis)||
-|Big Data - Spider|[数据爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers)||
-|Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
+|Public API|[开源API](https://github.com/public-apis/public-apis)||Big Data - Spider|[数据爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers)||
+|Materials | [搜书利器](https://www.jiumodiary.com/)||
+|Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
+|
