@@ -10,7 +10,8 @@
 |    Category    |    GitHub      |Description|    Status|
 |:--------       |  :----------   |  :-----------|  :-----------|
 |Math|[数学乐](https://www.shuxuele.com/calculus/integration-introduction.html)||
-|Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  || 
+|Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  ||
+|Machine Learning - Tips of Feature Engineering|[特征工程Tips](https://github.com/Pysamlam/Tips-of-Feature-engineering)||
 |Machine Learning|[Papers with code](https://github.com/zziz/pwc)||
 |Machine Learning |[MIT Machine Learning related courses](https://github.com/lexfridman/mit-deep-learning)||
 |Machine Learning|[周志华 Machine Learning 全书笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)||
@@ -32,8 +33,17 @@
 |Algorithm |[Leetcode general questions](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)||
 |Algorithm|[Python算法](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)||
 |Algorithm-Leetcode|[LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation)||
+|Algorithm - Materials|[算法课件](https://github.com/hzwer/shareOI)||
 |Javascript|[javascript语法](https://github.com/ryanmcdermott/clean-code-javascript)||
 |Study Website|[大学资源网](http://www.dxzy163.com/)||
-|Public API|[开源API](https://github.com/public-apis/public-apis)||Big Data - Spider|[数据爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers)||
+|Public API|[开源API](https://github.com/public-apis/public-apis)||
+|Big Data - Spider|[数据爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers)||
 |Materials | [搜书利器](https://www.jiumodiary.com/)||
 |Study - Tips|[Tips](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#ais-anchor)||
+|Language - Python| [Python-Small-Samples](https://github.com/jackzhenguo/python-small-examples)|this is the sample of Python practise|
+|Architecture - Design Large scales System|[Large Scales System Design](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.||
+|Language - Python Bootcamp|[Python3 BootCamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Course Files for Complete Python 3 Bootcamp Course on Udemy||
+|Language - Guide to Python|[Guide to Python](https://pythonguidecn.readthedocs.io/zh/latest/)|这是一份活着的、会呼吸的指南。 如果您有意一起贡献, 在GitHub fork 我!||
+|Hacker - Art of Hacker|[The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. https://h4cker.org||
+|RoboMaster - Robot Study|[RoboMaster-Robot](https://v.youku.com/v_show/id_XNDUzMjYwMDQ2OA==.html?spm=a2hbt.13141534.1_2.d1_2)||
+|Language - Javascript|[Javascript Guide](https://github.com/airbnb/javascript)|JavaScript Style Guide||
