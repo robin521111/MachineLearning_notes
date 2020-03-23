@@ -22,9 +22,11 @@
 |Machine Learning - Tensorflow 2.0|[tensorflow2.0 手册 ](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials|
 |Machine Learning - Pytorch Manual |[Pytorch手册](https://github.com/zergtant/pytorch-handbook)||
 |Machine Learning - Data Science|[数据科学CheatSheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)||
+|Machine Learning -  NLP-tutorial|[NLP-tutorial](https://github.com/graykode/nlp-tutorial)|Natural Language Processing Tutorial for Deep Learning Researchers||
 |Machine Learning - GAN Neaual Network|[对抗神经网络论文](https://github.com/hindupuravinash/the-gan-zoo)||
 |Machine Learning - transformaers|[Transformers](https://github.com/huggingface/transformers)|Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.|
 |Machine Learning - Study Notes|[AndrewNg ML-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|//www.coursera.org/course/ml study link|
+|Machine Learning  - 100 Days of ML Day|[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)|*100-Days-Of-ML-Code中文版*||
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
@@ -49,3 +51,4 @@
 |RoboMaster - Robot Study|[RoboMaster-Robot](https://v.youku.com/v_show/id_XNDUzMjYwMDQ2OA==.html?spm=a2hbt.13141534.1_2.d1_2)||
 |Architecture - Design Large scales System|[Large Scales System Design](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.||
 |Public API|[开源API](https://github.com/public-apis/public-apis)||
+|Language - Python-100-Days|[Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师||
