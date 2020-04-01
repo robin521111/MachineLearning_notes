@@ -1,15 +1,10 @@
 # Machine learning & Leetcode
 ## this is the place where i mark all materials for machine learning
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-
 
 |    Category    |    GitHub      |Description|    Status|
 |:--------       |  :----------   |  :-----------|  :-----------|
 |Math|[数学乐](https://www.shuxuele.com/calculus/integration-introduction.html)||
+|Top News|[China Top Chart ](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Vue)|
 |Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  ||
 |Machine Learning - Tips of Feature Engineering|[特征工程Tips](https://github.com/Pysamlam/Tips-of-Feature-engineering)||
 |Machine Learning|[Papers with code](https://github.com/zziz/pwc)||
@@ -27,6 +22,7 @@
 |Machine Learning - transformaers|[Transformers](https://github.com/huggingface/transformers)|Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.|
 |Machine Learning - Study Notes|[AndrewNg ML-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|//www.coursera.org/course/ml study link|
 |Machine Learning  - 100 Days of ML Day|[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)|*100-Days-Of-ML-Code中文版*||
+|Machine Learning - Chinese ASR|[Chinese ASR](https://github.com/nl8590687/ASRT_SpeechRecognition)|Deep Learing Speech Recognition||
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
