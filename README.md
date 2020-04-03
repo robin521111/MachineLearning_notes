@@ -41,6 +41,22 @@
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
+<<<<<<< HEAD
+=======
+|GitHub |[Github 中文榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)||
+|Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
+|Machine Learning  - 100 Days of ML Day|[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)|*100-Days-Of-ML-Code中文版*||
+|Machine Learning - Chinese ASR|[Chinese ASR](https://github.com/nl8590687/ASRT_SpeechRecognition)|Deep Learing Speech Recognition|*|
+|Machine Learning -Masr|[Masr 中文语音识别](https://github.com/libai3/masr)|MASR是一个基于端到端的深度神经网络的开箱即用的中文普通话语音识别工具|*|
+|<kbd>Algorithm<kbd>||||
+|Algorithm |[Leetcode general questions](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)||
+|Algorithm|[Python算法](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)||
+|Algorithm-Leetcode|[LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation)||
+|Algorithm - Materials|[算法课件](https://github.com/hzwer/shareOI)||
+|Algorithm|[Algorithm](https://github.com/labuladong/fucking-algorithm)||
+|Study Website|[大学资源网](http://www.dxzy163.com/)||
+|Study-Tips|[Tips](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#ais-anchor)||
+>>>>>>> 0e05334... update architecture
 |Language - Python| [Python-Small-Samples](https://github.com/jackzhenguo/python-small-examples)|this is the sample of Python practise|
 |Language - Javascript|[Javascript Guide](https://github.com/airbnb/javascript)|JavaScript Style Guide||
 |Language - Javascript|[javascript语法](https://github.com/ryanmcdermott/clean-code-javascript)||
@@ -64,10 +80,17 @@
 |Hacker - Art of Hacker|[The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. https://h4cker.org||
 |<kbd>Robots<kbd>|||
 |RoboMaster - Robot Study|[RoboMaster-Robot](https://v.youku.com/v_show/id_XNDUzMjYwMDQ2OA==.html?spm=a2hbt.13141534.1_2.d1_2)||
+<<<<<<< HEAD
 |Chatbot - word correction|[中文文区引错工具](https://github.com/shibing624/pycorrector)|pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.||
+=======
+|Architecture - Design Large scales System|[Large Scales System Design](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.||
+>>>>>>> 0e05334... update architecture
 |Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Tools-Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Tools-Materials | [搜书利器](https://www.jiumodiary.com/)||
+<<<<<<< HEAD
 |<kbd> Self Host <kbd>
 |Self Host|[Self Host](https://github.com/awesome-selfhosted/awesome-selfhosted)|||
+=======
+>>>>>>> 0e05334... update architecture
