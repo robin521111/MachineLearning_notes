@@ -24,7 +24,7 @@
 |Machine Learning - Data Science|[数据科学CheatSheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)||
 |Machine Learning - GAN Neaual Network|[对抗神经网络论文](https://github.com/hindupuravinash/the-gan-zoo)||
 |Machine Learning - transformaers|[Transformers](https://github.com/huggingface/transformers)|Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.|
-|Machine Learning - Study Notes|[AndrewNg ML-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|//www.coursera.org/course/ml study link|
+|Machine Learning - Study Notes|[AndrewNg ML-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|www.coursera.org/course/ml |
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
