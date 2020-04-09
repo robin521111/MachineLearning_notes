@@ -64,3 +64,5 @@
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Tools-Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Tools-Materials | [搜书利器](https://www.jiumodiary.com/)||
+|<kdb> Self Host <kbd>
+|Self Host|[Self Host](https://github.com/awesome-selfhosted/awesome-selfhosted)|||
