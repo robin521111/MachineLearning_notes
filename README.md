@@ -13,6 +13,8 @@
 |Architecture - Design Large scales System|[Large Scales System Design](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.||
 |<kbd>Big Data<kbd>|||
 |Big Data - Spider|[数据爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers)||
+|<kbd>Machine Leanring- Engineering <kbd>|||
+|Machine Learning - Vector Search|[Milvus](https://github.com/milvus-io/milvus/blob/master/README_CN.md)|Milvus 是一款开源的特征向量相似度搜索引擎，具有使用方便、实用可靠、易于扩展、稳定高效和搜索迅速等特点，在全球范围内被上百家组织和机构所采用。Milvus 已经被广泛应用于多个领域，其中包括图像处理、机器视觉、自然语言处理、语音识别、推荐系统以及新药发现等。||
 |<kbd>Machine Learning <kbd>|||
 |Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  ||
 |Machine Learning - Tips of Feature Engineering|[特征工程Tips](https://github.com/Pysamlam/Tips-of-Feature-engineering)||
@@ -34,7 +36,8 @@
 |Machine Learning  - 100 Days of ML Day|[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版||
 |Machine Learning - Chinese ASR|[Chinese ASR](https://github.com/nl8590687/ASRT_SpeechRecognition)|Deep Learing Speech Recognition||
 |Machine Learning -Masr|[Masr 中文语音识别](https://github.com/libai3/masr)|MASR是一个基于端到端的深度神经网络的开箱即用的中文普通话语音识别工具||
-|<kdb>Programe Language <kbd>|||
+|<kbd>ProgrameLanguage <kbd>|||
+|Language - Programe Fee Book|[Free Programming Book](https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html)||
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
@@ -61,9 +64,10 @@
 |Hacker - Art of Hacker|[The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. https://h4cker.org||
 |<kbd>Robots<kbd>|||
 |RoboMaster - Robot Study|[RoboMaster-Robot](https://v.youku.com/v_show/id_XNDUzMjYwMDQ2OA==.html?spm=a2hbt.13141534.1_2.d1_2)||
+|Chatbot - word correction|[中文文区引错工具](https://github.com/shibing624/pycorrector)|pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.||
 |Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Tools-Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Tools-Materials | [搜书利器](https://www.jiumodiary.com/)||
-|<kdb> Self Host <kbd>
+|<kbd> Self Host <kbd>
 |Self Host|[Self Host](https://github.com/awesome-selfhosted/awesome-selfhosted)|||
