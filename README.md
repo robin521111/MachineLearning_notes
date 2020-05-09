@@ -41,8 +41,6 @@
 |Language - Javascrip|[YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS)|This is a series of books diving deep into the core mechanisms of the JavaScript language.|
 |Language - Python|[Python Cheatsheet](https://github.com/gto76/python-cheatsheet)||
 |Language - Python|[Python Code Sample](https://github.com/geekcomputers/Python)||
-<<<<<<< HEAD
-=======
 |GitHub |[Github 中文榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)||
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Machine Learning  - 100 Days of ML Day|[机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code)|*100-Days-Of-ML-Code中文版*||
@@ -56,7 +54,6 @@
 |Algorithm|[Algorithm](https://github.com/labuladong/fucking-algorithm)||
 |Study Website|[大学资源网](http://www.dxzy163.com/)||
 |Study-Tips|[Tips](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#ais-anchor)||
->>>>>>> 0e05334... update architecture
 |Language - Python| [Python-Small-Samples](https://github.com/jackzhenguo/python-small-examples)|this is the sample of Python practise|
 |Language - Javascript|[Javascript Guide](https://github.com/airbnb/javascript)|JavaScript Style Guide||
 |Language - Javascript|[javascript语法](https://github.com/ryanmcdermott/clean-code-javascript)||
@@ -80,17 +77,11 @@
 |Hacker - Art of Hacker|[The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. https://h4cker.org||
 |<kbd>Robots<kbd>|||
 |RoboMaster - Robot Study|[RoboMaster-Robot](https://v.youku.com/v_show/id_XNDUzMjYwMDQ2OA==.html?spm=a2hbt.13141534.1_2.d1_2)||
-<<<<<<< HEAD
 |Chatbot - word correction|[中文文区引错工具](https://github.com/shibing624/pycorrector)|pycorrector is a toolkit for text error correction. It was developed to facilitate the designing, comparing, and sharing of deep text error correction models.||
-=======
 |Architecture - Design Large scales System|[Large Scales System Design](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.||
->>>>>>> 0e05334... update architecture
 |Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Regex|[正则表达式](https://github.com/ziishaned/learn-regex)||
 |Tools-Public API|[开源API](https://github.com/public-apis/public-apis)||
 |Tools-Materials | [搜书利器](https://www.jiumodiary.com/)||
-<<<<<<< HEAD
 |<kbd> Self Host <kbd>
 |Self Host|[Self Host](https://github.com/awesome-selfhosted/awesome-selfhosted)|||
-=======
->>>>>>> 0e05334... update architecture
