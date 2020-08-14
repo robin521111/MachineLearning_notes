@@ -16,6 +16,7 @@
 |<kbd>Machine Leanring- Engineering <kbd>|||
 |Machine Learning - Vector Search|[Milvus](https://github.com/milvus-io/milvus/blob/master/README_CN.md)|Milvus 是一款开源的特征向量相似度搜索引擎，具有使用方便、实用可靠、易于扩展、稳定高效和搜索迅速等特点，在全球范围内被上百家组织和机构所采用。Milvus 已经被广泛应用于多个领域，其中包括图像处理、机器视觉、自然语言处理、语音识别、推荐系统以及新药发现等。||
 |<kbd>Machine Learning <kbd>|||
+|Machine Learning - lihang-code| [统计学习方法](https://github.com/fengdu78/lihang-code)||
 |Machine Learning  |[Tensorflow 2 handbook](https://github.com/robin521111/MachineLearning_notes.git)  ||
 |Machine Learning - Tips of Feature Engineering|[特征工程Tips](https://github.com/Pysamlam/Tips-of-Feature-engineering)||
 |Machine Learning|[Papers with code](https://github.com/zziz/pwc)||
